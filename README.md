@@ -2,7 +2,7 @@
 
 ---
 # Nota e Link do app
-A Aplicação por ser Svelte precisa por npm install primeiro
+A Aplicação por ser Svelte precisa por npm install primeiro.
 
 Link da aplicação em funcionamento: https://gravador.vercel.app
 
