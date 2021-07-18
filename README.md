@@ -1,6 +1,11 @@
 *Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
 ---
+# Nota e Link do app
+A Aplicação por ser Svelte precisa por npm install primeiro
+
+Link da aplicação em funcionamento: https://gravador.vercel.app
+
 
 # svelte app
 
